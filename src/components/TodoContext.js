@@ -14,7 +14,7 @@ const initialTodos = [
   {
     id: 3,
     text: '프로젝트 생성하기3',
-    done: false,
+    done: true,
   },
   {
     id: 4,
